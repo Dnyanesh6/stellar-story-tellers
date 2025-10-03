@@ -82,14 +82,23 @@ body {
   transform: scale(1);
 }
 
-.cme{
-    transform: rotate(90deg);
+.geo{
     width: 250px;
     margin: 12px;
 }
 
-.inner-div{
+.inner-div,.inner-div1{
     display: flex;
+}
+
+.inner-div2{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.inner-div2 p {
+    margin-top: 12px;
 }
 
 p{

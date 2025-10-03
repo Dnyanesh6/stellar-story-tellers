@@ -82,8 +82,7 @@ body {
   transform: scale(1);
 }
 
-.cme{
-    transform: rotate(90deg);
+.super{
     width: 250px;
     margin: 12px;
 }
